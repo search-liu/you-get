@@ -4,6 +4,3 @@ from .util import log
 from . import json_output
 import os
 import sys
-
-
-#
